@@ -3,8 +3,8 @@ bio/How he relates to us
 Cool stuff to talk about
 ---------------------------
 James Grenning
-
-embedded TDD, consulting career path for coders, 
+We know James
+embedded TDD, consulting career path for coders, his online workshop, pool
 
 Rob Walling
 uber .NET geek decided to get into startup business. Ended up running conferences for startup guys and writing and selling very successful apps
@@ -14,5 +14,7 @@ common mistakes coders think of when writing apps, percentage of time spent codi
 also heavy coding guys who pivoted and now do a diet podcast
 dieting and coding. do coders like talking diets? what tech skills helped? What tech skills did you have to unlearn? What kinds of apps/sites are there out there that dieters who code might geek out on?
 
-Brennan Dunn?
+Brennan Dunn
+Regular coder-guy who was an independent. Decided to pivot to helping independent consultant negoatiate and charge more for their work
+
 
