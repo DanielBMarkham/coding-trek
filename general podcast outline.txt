@@ -1,3 +1,13 @@
+#### Could be audio podcast.  Simple to do.  Easy to edit.  Low barrier to entry.  People can listen in car or on walks.  
+
+#### Could be video podcast.  Harder to do.  Harder to edit.  Higher barrier to entry.  People have to look at screen.
+####                          But way easier to deal with technical content like code.
+####                          Much more motivating.  Deeper connection with audience.  
+####                          Maybe easier to get sponsors.
+####                          The trick will be in the editing.  
+
+
+
 intro music 5-7 seconds?
 welcome to Coding Trek!
 I am XXXX
@@ -16,6 +26,13 @@ Errata
 X: How is Y doing? Tells story of week
 Y: How is X doing? Tells story of week
 (New things tried, Things learned, experiences had, benefits received. easy banter back-and-forth)
+
+Introduce Guest.
+Segment 1.  Discussion of Guest's role in industry.  Anecdotes, questions, banter.  Etc.
+
+Segment 2. Deep Tech.  Code on screen (or in a gist, or some other downloadable place.) Talk about it.  Run it. Test it. Refactor it.  Break it.  Have a blast.
+
+Segment 3. People issues.  Where we agree.  Where we disagree.  Problems.  Solutions.  Politics.  Agile.  Whatever.
 
 What is "coding-trek"? (maybe not)
 listener mail
