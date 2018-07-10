@@ -7,6 +7,13 @@
 ####                          The trick will be in the editing.  
 
 
+#### If we're trying to go code-heavy, there's just no replacing video -- but people don't consume vodcasts as much as audio podcasts
+#### Something to consider: isn't there a real-time video app where people can stream in comments/questions while you go along?
+#### You can ignore it or acknowledge comments and questions and respond to them, almost like a radio call-in show
+#### I thinkt Scott Adams is using this to great effect. I wonder if you could do realtime video and be able to respond
+#### to the stream whenever you want and then convert into standard podcast/vodcast? (The tool is "Periscope")
+#### Editing gives me a headache. So many options and things that are possible. What is important to spend time on and what isn't?
+
 
 intro music 5-7 seconds?
 welcome to Coding Trek!
